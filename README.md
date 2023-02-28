@@ -6,13 +6,4 @@ Heart disease is the leading cause of death in the United States. Researchers ar
 #### Data source
 This project uses the Cleveland heart disease dataset.
 
-#### Inspiration
-Portfolio project in the field of health to determine the risk of heart disease based on maximum heart rate durimg exercise.
 
-#### Technology used
-R Programming Language
-
-
-
-##### Note
-To be classified under health projects.
